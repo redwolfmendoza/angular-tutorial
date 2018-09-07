@@ -1,3 +1,15 @@
 ﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/app/app.component.css">
+    <Files>
+      <File FileName="src/app/app.component.ts" Line="1" Column="1" />
+      <File FileName="src/app/app.component.html" Line="1" Column="1" />
+      <File FileName="src/app/app.component.css" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
