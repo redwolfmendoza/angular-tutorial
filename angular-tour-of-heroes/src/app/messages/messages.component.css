@@ -1,4 +1,15 @@
 /* MessagesComponent's private CSS styles */
+.messagesWrap {
+  margin: 40px 0;
+  border: 2px solid #ff0000;
+  border-radius: 6px;
+  padding: 20px;
+  width: 720px;
+  background-color: #ededed;
+  height: auto;
+  overflow: hidden;
+}
+
 h2 {
   color: red;
   font-family: Arial, Helvetica, sans-serif;
@@ -38,3 +49,4 @@ body, input[text], button {
     color: #888;
     margin-bottom: 12px;
   }
+
