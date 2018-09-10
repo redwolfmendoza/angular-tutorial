@@ -1,12 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/app/app.component.ts">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/app/hero.ts">
     <Files>
-      <File FileName="src/app/heroes/heroes.component.ts" Line="18" Column="3" />
-      <File FileName="src/app/heroes/heroes.component.html" Line="3" Column="57" />
-      <File FileName="src/app/app.module.ts" Line="2" Column="42" />
-      <File FileName="src/app/app.component.html" Line="6" Column="9" />
+      <File FileName="src/app/mock-heroes.ts" Line="8" Column="3" />
+      <File FileName="src/app/heroes/heroes.component.ts" Line="14" Column="22" />
+      <File FileName="src/app/heroes/heroes.component.html" Line="13" Column="3" />
+      <File FileName="src/app/heroes/heroes.component.css" Line="29" Column="5" />
+      <File FileName="src/app/app.module.ts" Line="20" Column="27" />
+      <File FileName="src/app/app.component.ts" Line="11" Column="1" />
+      <File FileName="src/app/app.component.html" Line="2" Column="26" />
       <File FileName="src/app/hero.ts" Line="4" Column="2" />
-      <File FileName="src/app/app.component.ts" Line="9" Column="28" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace />
